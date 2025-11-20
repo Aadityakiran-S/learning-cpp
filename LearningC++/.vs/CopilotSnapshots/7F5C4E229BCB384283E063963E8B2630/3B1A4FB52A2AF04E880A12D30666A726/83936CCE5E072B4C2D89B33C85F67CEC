@@ -1,0 +1,9 @@
+﻿#include <iostream>
+#include "PointerReferenceDemo.h"
+
+int main(){
+	PointerReferenceDemo demo;
+	demo.run();
+
+	return 0;
+}

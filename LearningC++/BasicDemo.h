@@ -1,0 +1,8 @@
+#pragma once
+
+namespace PointerReference {
+	class Demo {
+	public:
+		void run();
+	};
+}
