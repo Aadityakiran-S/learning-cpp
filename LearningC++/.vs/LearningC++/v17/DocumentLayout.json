@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Q:\\src\\Learning\\LearningC\u002B\u002B\\",
+  "WorkspaceRootPath": "S:\\Personal_Learning\\learning-cpp\\LearningC\u002B\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2050A90C-8F3E-4A03-BF78-AFDBCD273139}|LearningC\u002B\u002B.vcxproj|Q:\\src\\Learning\\LearningC\u002B\u002B\\BasicDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2050A90C-8F3E-4A03-BF78-AFDBCD273139}|LearningC\u002B\u002B.vcxproj|solutionrelative:BasicDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2050A90C-8F3E-4A03-BF78-AFDBCD273139}|LearningC\u002B\u002B.vcxproj|Q:\\src\\Learning\\LearningC\u002B\u002B\\BasicDemo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2050A90C-8F3E-4A03-BF78-AFDBCD273139}|LearningC\u002B\u002B.vcxproj|solutionrelative:BasicDemo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2050A90C-8F3E-4A03-BF78-AFDBCD273139}|LearningC\u002B\u002B.vcxproj|Q:\\src\\Learning\\LearningC\u002B\u002B\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2050A90C-8F3E-4A03-BF78-AFDBCD273139}|LearningC\u002B\u002B.vcxproj|S:\\Personal_Learning\\learning-cpp\\LearningC\u002B\u002B\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2050A90C-8F3E-4A03-BF78-AFDBCD273139}|LearningC\u002B\u002B.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2050A90C-8F3E-4A03-BF78-AFDBCD273139}|LearningC\u002B\u002B.vcxproj|S:\\Personal_Learning\\learning-cpp\\LearningC\u002B\u002B\\BasicDemo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2050A90C-8F3E-4A03-BF78-AFDBCD273139}|LearningC\u002B\u002B.vcxproj|solutionrelative:BasicDemo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BasicDemo.cpp",
-              "DocumentMoniker": "Q:\\src\\Learning\\LearningC\u002B\u002B\\BasicDemo.cpp",
-              "RelativeDocumentMoniker": "BasicDemo.cpp",
-              "ToolTip": "Q:\\src\\Learning\\LearningC\u002B\u002B\\BasicDemo.cpp",
-              "RelativeToolTip": "BasicDemo.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-19T10:07:43.977Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BasicDemo.h",
-              "DocumentMoniker": "Q:\\src\\Learning\\LearningC\u002B\u002B\\BasicDemo.h",
+              "DocumentMoniker": "S:\\Personal_Learning\\learning-cpp\\LearningC\u002B\u002B\\BasicDemo.h",
               "RelativeDocumentMoniker": "BasicDemo.h",
-              "ToolTip": "Q:\\src\\Learning\\LearningC\u002B\u002B\\BasicDemo.h",
+              "ToolTip": "S:\\Personal_Learning\\learning-cpp\\LearningC\u002B\u002B\\BasicDemo.h",
               "RelativeToolTip": "BasicDemo.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -52,13 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "Q:\\src\\Learning\\LearningC\u002B\u002B\\Main.cpp",
+              "DocumentMoniker": "S:\\Personal_Learning\\learning-cpp\\LearningC\u002B\u002B\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
-              "ToolTip": "Q:\\src\\Learning\\LearningC\u002B\u002B\\Main.cpp",
+              "ToolTip": "S:\\Personal_Learning\\learning-cpp\\LearningC\u002B\u002B\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-05T06:04:02.784Z",
               "EditorCaption": ""
